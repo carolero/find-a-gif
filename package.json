@@ -12,6 +12,7 @@
   "author": "Carolina Rodrigues (caroleudro@gmail.com)",
   "license": "ISC",
   "dependencies": {
+    "heroku": "^7.18.4",
     "vue": "^2.5.17",
     "vue-router": "^3.0.1"
   }
